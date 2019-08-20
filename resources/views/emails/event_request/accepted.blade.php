@@ -1,0 +1,1 @@
+<p>Your request to participate in event {{ $event->name }} is accepted</p>
